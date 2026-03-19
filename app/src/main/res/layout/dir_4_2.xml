@@ -36,8 +36,7 @@
         android:layout_height="match_parent"
         android:layout_margin="15dp"
         android:backgroundTint="#C7C6C6"
-        android:textColor="#737373"
-        android:textSize="20dp"
+        android:enabled="false"
         android:text="버튼 2"/>
 
 
