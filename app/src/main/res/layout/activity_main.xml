@@ -6,16 +6,19 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="#C6EBF0"
     tools:context=".MainActivity">
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:backgroundTint="#2563D5"
         android:text="Android Button"/>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:backgroundTint="@color/purple"
         android:text="Android Button"/>
 
     <Button
